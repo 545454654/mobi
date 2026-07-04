@@ -1,0 +1,6 @@
+{
+  "name": "Mobi Cash",
+  "description": "تطبيق موبي كاش لشحن الحسابات وتحويل الأموال للمنصات المختلفة مثل 1xbet و Melbet و Betwinner مع ميزة التحقق التلقائي من أسماء اللاعبين عبر المعرف ID.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
